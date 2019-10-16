@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: 일감 등록
+about: "신규 일감을 등록합니다."
 title: test
 labels: ''
 assignees: ''
